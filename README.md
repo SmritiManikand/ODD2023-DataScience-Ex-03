@@ -31,7 +31,6 @@ Do plots like boxplots,countplot,distribution plot,histogram plot.
 ## Code
 
 ```
-
 import pandas as pd
 import seaborn as sns
 import numpy as np
@@ -94,8 +93,3 @@ sns.histplot(x="Experience_Years",data=df)
 ## Result
 
 Thus we have read the given data and performed the univariate analysis with different types of plots.
-
-## Output
-
-
-## Result
