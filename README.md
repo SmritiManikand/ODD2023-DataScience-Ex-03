@@ -89,60 +89,80 @@ sns.histplot(x="Experience_Years",data=df)
 ```
 ## Output
 
+## Diabetes Dataset
 
-<img width="629" alt="s0" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/7515ae94-d46d-4fca-a9ec-5a2148035b69">
+## head
+<img width="533" alt="s1" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/31334f3f-bd76-475e-8cdc-a42a32083ced">
 
+## describe
+<img width="576" alt="s2" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/4bb1c854-1407-4105-b167-2295c1a7a09c">
 
-<img width="345" alt="s1" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/1ad94326-6f88-4e25-9c42-4dab684a42e1">
+## isnull.sum
+<img width="188" alt="s3" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/9ebd94a5-62c1-43c7-a4eb-cd923aecc27c">
 
+## info
+<img width="314" alt="s4" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/b5fc0f02-fc7f-4dba-b6f6-db9d25357d0a">
 
-<img width="432" alt="s2" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/43225bbf-5a45-4015-bea2-59e9b986516b">
+## box plot
+<img width="386" alt="s5" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/0a16f906-3869-4609-ab86-32c63bd4f8dd">
 
+## count plot
+<img width="414" alt="s6" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/595d8f14-414e-4a90-83c6-13a2f326f5d5">
 
-<img width="416" alt="s3" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/98aa9edb-60db-4ca8-bed0-b770104f3032">
+## distplot
+<img width="413" alt="s7" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/d67d3a7b-e871-4867-b94c-dbb3890089e7">
 
+## histplot
+<img width="422" alt="s8" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/919e58d7-b05c-43a9-87fc-babe34e5e33a">
 
-<img width="408" alt="Screenshot 2023-10-07 205039" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/eb595e70-0ed1-4d09-9b8f-6dbfddd1b1ad">
+## SuperStore Dataset
 
+## head
+<img width="606" alt="s9" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/ed2e97af-67a4-475d-8eb3-f36ecac03eb3">
 
-<img width="615" alt="Screenshot 2023-10-07 205101" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/685c6efc-ac6f-4622-ac05-70a9c9a8ff87">
+## describe
+<img width="247" alt="s10" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/8b51db60-8877-4bd5-a73c-5361205b97df">
 
+## isnull.sum
+<img width="133" alt="s11" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/4a4d018f-5b29-42a4-890b-cf6418826ce0">
 
-<img width="153" alt="Screenshot 2023-10-07 205126" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/a8874675-73eb-4018-993b-999a206e0ddb">
+## info
+<img width="273" alt="s12" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/ededc383-c677-4489-bd54-a93ab8e0b054">
 
+## box plot
+<img width="382" alt="s13" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/a126e036-ae49-47aa-849b-aa5049fbd62e">
 
-<img width="254" alt="Screenshot 2023-10-07 205139" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/f033cbe5-59bb-4271-87bf-47a4c66f7777">
+## count plot
+<img width="427" alt="s14" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/61a3dbb0-5fe7-4fb2-92bd-e1700100729e">
 
+## distplot
+<img width="418" alt="s15" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/365d8b0e-638d-4880-922d-42a82456097a">
 
-<img width="384" alt="Screenshot 2023-10-07 205152" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/7cea6049-ac66-4c56-bf9b-6737627c8d47">
+## Employee_sal Dataset
 
+## head
+<img width="257" alt="s16" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/db895ae7-33b1-4584-8798-ecf546c48034">
 
-<img width="434" alt="Screenshot 2023-10-07 205206" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/15d52e3a-2876-4566-8e7d-ded0d426059b">
+## isnull.sum
+<img width="155" alt="s17" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/76f0a291-d1c9-4da5-97a2-fe3212d2b0e4">
 
+## describe
+<img width="344" alt="s18" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/e450d596-b769-44fd-8915-92f39af7a116">
 
-<img width="432" alt="Screenshot 2023-10-07 205220" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/335793e8-0ea2-409f-952b-d39d93ee25ba">
+## info
+<img width="260" alt="s19" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/81125fdb-49eb-4d9a-a9e4-1de34f3416d3">
 
+## box plot
+<img width="383" alt="s20" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/d3621a00-dd3f-4d8b-8b68-c0c27205f6fc">
 
-<img width="280" alt="Screenshot 2023-10-07 205235" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/25c0a608-8aba-41d1-99ac-a7d808142276">
+## count plot
+<img width="392" alt="s21" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/c063d9c0-7e88-4a17-b72c-d5aefc62628d">
 
+## distplot
+<img width="420" alt="s22" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/acc1ec10-3877-4151-84bb-83dfb8bbca3b">
 
-<img width="333" alt="Screenshot 2023-10-07 205305" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/01395bf1-44f5-424b-98f0-14417b9eeb36">
-
-
-<img width="265" alt="Screenshot 2023-10-07 205318" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/9ae9265d-d238-4c37-9f29-bdfda7664093">
-
-
-<img width="375" alt="Screenshot 2023-10-07 205340" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/d6c70a0e-1f50-4ec2-a24a-2b9c9c9632ef">
-
-
-<img width="416" alt="Screenshot 2023-10-07 205353" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/cf780321-772d-401b-8899-28de4fa45b08">
-
-
-<img width="427" alt="Screenshot 2023-10-07 205405" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/8c86565a-dcf4-4182-92e2-a8f6ee459303">
-
-
-<img width="421" alt="Screenshot 2023-10-07 205417" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/dd5c5e02-6bfe-4fc8-96a0-3a95a3400b8a">
-
+## histplot
+<img width="410" alt="s23" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/e23b8f17-2b67-47d5-a713-bee2f4120195">
 
 ## Result
 
