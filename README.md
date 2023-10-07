@@ -92,6 +92,15 @@ sns.histplot(x="Experience_Years",data=df)
 
 <img width="518" alt="s1" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/c726f2fe-4e74-42a3-9c71-1bbeabd0573a">
 
+
+
+
+
+
+
+
+
+
 <img width="571" alt="s2" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/5306af07-ad67-4747-92fb-3ad9ef3c4ad1">
 
 <img width="175" alt="s3" src="https://github.com/SmritiManikand/ODD2023-DataScience-Ex-03/assets/113674204/52081a32-816f-441a-993f-05c9a6d5387f">
